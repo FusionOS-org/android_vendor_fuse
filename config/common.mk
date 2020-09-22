@@ -96,5 +96,8 @@ PRODUCT_PACKAGES += \
 # Packages
 include vendor/fuse/config/packages.mk
 
+# ThemeOverlays
+include packages/overlays/Themes/themes.mk
+
 # Branding
 include vendor/fuse/config/branding.mk
