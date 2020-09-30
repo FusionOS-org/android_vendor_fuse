@@ -7,4 +7,5 @@ PRODUCT_PACKAGES += \
 # Required packages
 PRODUCT_PACKAGES += \
     ThemePicker \
-    FusionThemesStub
+    FusionThemesStub \
+    TurboPrebuilt
